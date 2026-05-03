@@ -1,4 +1,4 @@
-# Hi, I'm Nino 👋
+# Hi, I'm Nino
 
 🔗 **Portfolio:** https://nino-11.github.io/  
 🔗 **LinkedIn:** https://www.linkedin.com/in/nino-miljkovic-10800627/
