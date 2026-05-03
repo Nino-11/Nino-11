@@ -1,52 +1,66 @@
-# Hi, I'm Nino
+# Hi, I'm Nino 
 
-🔗 **Portfolio:** https://nino-11.github.io/  
-🔗 **LinkedIn:** https://www.linkedin.com/in/nino-miljkovic-10800627/
+Building machine learning systems and interactive tools that make complex concepts intuitive.
+
+ **Portfolio:** https://nino-11.github.io/  
+ **LinkedIn:** https://www.linkedin.com/in/nino-miljkovic-10800627/
 
 ---
 
 ## About Me
 
-Data Scientist with a focus on machine learning, explainable AI, and building systems that turn complex data into actionable insight.
+Data Scientist focused on machine learning, explainable AI, and building systems that turn complex data into actionable insight.
 
-My work combines:
-- Machine learning & AI systems  
-- Explainability (Grad-CAM, SHAP, LIME)  
-- Interactive visualizations for ML intuition  
-- Real-world decision support  
+My work sits at the intersection of:
+- **Machine Learning & AI Systems**  
+- **Explainability** (Grad-CAM, SHAP, LIME)  
+- **Interactive visualizations** that build intuition for ML behavior  
+- **Real-world decision support**
 
 ---
 
-## Featured Work
+##  Featured Work
 
-### 📊 Interactive Visualizations
-- [K-Means vs DBSCAN](https://nino-11.github.io/kmeans-vs-dbscan/)
-- [Gradient Descent Optimizers](https://nino-11.github.io/gradient-descent/)
+### 📊 Interactive ML Visualizations
+Tools designed to make machine learning behavior visible and intuitive:
 
-### 🤖 AI Systems
-- [RAG Knowledge Assistant](https://github.com/Nino-11/rag-knowledge-assistant)
+- [K-Means vs DBSCAN](https://nino-11.github.io/kmeans-vs-dbscan/)  
+  *Visual comparison of clustering behavior on non-linear data*
 
-### 📚 Research
-- Multimodal AI (Publication)
-- Explainable AI in Medical Imaging
+- [Gradient Descent Optimizers](https://nino-11.github.io/gradient-descent/)  
+  *Real-time exploration of SGD, Momentum, RMSProp, and Adam*
+
+---
+
+###  AI Systems & Applications
+
+- [RAG Knowledge Assistant](https://github.com/Nino-11/rag-knowledge-assistant)  
+  *Context-aware question answering using OpenAI + Pinecone*
+
+---
+
+### 📚 Research & Publications
+
+- Multimodal AI (Publication)  
+- Explainable AI in Medical Imaging  
 
 ---
 
 ## 🛠 Tech Stack
 
-- Python (scikit-learn, PyTorch, XGBoost)
-- Data Visualization (matplotlib, seaborn)
-- Machine Learning & AI Systems
-- HTML / CSS / JavaScript (interactive tools)
+- **Python:** scikit-learn, PyTorch, XGBoost  
+- **Data Visualization:** matplotlib, seaborn  
+- **Machine Learning & AI Systems**  
+- **Frontend:** HTML, CSS, JavaScript (interactive tools)
 
 ---
 
-## Focus Areas
+##  Focus Areas
 
-- Explainable AI (XAI)
-- Multimodal AI
-- Machine Learning Systems
-- Interactive ML Education
+- Explainable AI (XAI)  
+- Multimodal AI  
+- Machine Learning Systems  
+- Interactive ML Education  
 
 ---
 
