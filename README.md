@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Data Scientist with a focus on machine learning, explainable AI, and building systems that turn complex data into actionable insight.
 
@@ -17,7 +17,7 @@ My work combines:
 
 ---
 
-## 🧠 Featured Work
+## Featured Work
 
 ### 📊 Interactive Visualizations
 - [K-Means vs DBSCAN](https://nino-11.github.io/kmeans-vs-dbscan/)
@@ -41,7 +41,7 @@ My work combines:
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 - Explainable AI (XAI)
 - Multimodal AI
